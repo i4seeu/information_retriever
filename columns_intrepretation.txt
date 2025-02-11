@@ -1,0 +1,9 @@
+Title	
+Authors	Year	
+Filename	
+Scientific name of Medicinal plant
+--the Scientific name of the medicinal plant in the paper, like what plant is being talked about
+Biological activity	
+dose phytochemical	
+plant part used	formulation	botanic description	Toxicity	Adverse reactions	Health Benefits	Nutritional benefits
+https://www.alibabacloud.com/help/en/model-studio/user-guide/text-generation/?spm=a2c63.p38356.help-menu-2400256.d_1_0_0.101056b5U5junQ
